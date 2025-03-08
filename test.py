@@ -1,1 +1,1 @@
-print("\nhello\n")
+print("\nhello")
